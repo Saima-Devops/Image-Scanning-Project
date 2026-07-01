@@ -1,4 +1,4 @@
-# Docker Image Scanner - Final Capstone Project
+# Docker Image Vulnerability Scanner - Final Capstone Project
 
 ## Problem Statement
 
