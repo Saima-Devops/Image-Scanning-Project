@@ -2,7 +2,7 @@
   "name": "shopnow-admin",
   "version": "1.0.0",
   "private": true,
-  "proxy": "http://localhost:5000", 
+  "proxy": "http://localhost:5000",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -11,13 +11,11 @@
     "minimatch": "^9.0.3"
   },
   "scripts": {
-    "start": " react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-
-  
   "browserslist": {
     "production": [
       ">0.2%",
